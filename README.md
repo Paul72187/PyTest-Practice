@@ -1,3 +1,3 @@
 # Testing
 
-Playing with jest
+Playing with jest.
