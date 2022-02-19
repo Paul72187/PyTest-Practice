@@ -1,10 +1,10 @@
-# Kusari
+# Kvsari
 
 Named after the Japanese word for 'chain', this project sets out to consolidate investors' Cryptocurrency investments into one application. Users can see their live balance from multiple chains including Ethereum, Binance Chain, and Bitcoin. We've structured the application to allow us to scale the number of chains we're consuming data from, as well as swap out API providers where needed.
 
 In the space of 2 weeks, our team picked up a number of completely new frameworks, including a language we didn't have experience in before (Python). The team put in the hours, and we're excited to showcase the final result of the project in the below demo.
 
-## Kusari Demo
+## Kvsari Demo
 
 [![Kusari Demo](https://img.youtube.com/vi/pigj0cxPyOQ/0.jpg)](https://www.youtube.com/embed/pigj0cxPyOQ?start=1)
 
